@@ -1,9 +1,9 @@
 # Danilchenko Paul | С/С++ Developer 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilchenko-paul)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Paul_von_Daniels)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.facemash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/)
 
 **System Programming | High-Performance Computing | Embedded Development**
 
@@ -31,24 +31,19 @@
 
 ---
 
-## 🚡 Featured Projects
-
-### [High-Performance Thread Pool](https://github.com/yourusername/thread-pool)
-Modern C++17 thread pool implementation with work stealing
-
-### [Custom Memory Allocator](https://github.com/yourusername/memory-allocator)
-Pool-based allocator with 40% faster allocation than standard malloc
-
-### [Embedded RTOS Prototype](https://github.com/yourusername/mini-rtos)
-Lightweight real-time operating system for ARM Cortex-M
+## 📚 Currently Learning
+- Advanced C++20 features
+- Linux kernel development
+- Performance optimization techniques
+- Embedded systems architecture
 
 ---
 
 ## 📊 Development Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&exclude_repo=other-repo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilchenkoPaul&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DanilchenkoPaul&theme=dark&hide_border=true)
 
 ---
 
@@ -57,10 +52,10 @@ Lightweight real-time operating system for ARM Cortex-M
 Seeking opportunities to:
 - Develop high-performance systems
 - Optimize critical code paths
-- Contribute to open-source infrastructure projects
+- Contribute to meaningful open-source projects
 - Work with cutting-edge hardware technologies
 
 ---
 
-> "The cost of reliability is the pursuit of extreme simplicity."  
-> — C.A.R. Hoare
+> "First, solve the problem. Then, write the code."  
+> — John Johnson
