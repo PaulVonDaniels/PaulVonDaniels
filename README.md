@@ -25,3 +25,34 @@
     <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/stackoverflow-icon.gif?raw=true" width="40" height="40" alt="StackOverflow">
   </a>
 </div>
+
+<!-- Анимированный разделитель -->
+<div align="center">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/code-divider.gif?raw=true" width="800" height="3" alt="divider">
+</div>
+
+## 🛠️ Core Tech Stack
+
+<!-- 3D иконки технологий -->
+<div align="center">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/cpp-3d.gif?raw=true" width="80" height="80" alt="C++">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/linux-3d.gif?raw=true" width="80" height="80" alt="Linux">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/docker-3d.gif?raw=true" width="80" height="80" alt="Docker">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/cmake-3d.gif?raw=true" width="80" height="80" alt="CMake">
+</div>
+
+<!-- Интерактивная таблица навыков -->
+<details>
+<summary><b>📊 Skills Radar Chart</b></summary>
+<div align="center">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/skills-radar.svg?raw=true" width="500" alt="Skills Radar">
+</div>
+</details>
+
+### Areas of Interest
+- 🔥 Low-latency systems
+- 🧠 Memory management & optimization
+- ⚡ Multithreading & concurrency
+- 📟 Embedded systems development
+
+---
