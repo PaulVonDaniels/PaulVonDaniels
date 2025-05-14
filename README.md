@@ -1,77 +1,69 @@
-<h2>A little more about me...  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+# Danilchenko Paul | С/С++ Developer 
 
-```javascript
-const s_shemmee = {
-    bio: "Hey there! Shemmee here 👩🏻‍💻, a self-taught front-end developer passionate about UI/UX.",
-    techStack: {
-        languages: ["JavaScript/TypeScript"],
-        libraries: ["React", "Vue"],
-        frameworks: ["Next.js", "Vite", "Bootstrap"],
-        cssTools: ["SASS", "TailwindCSS", "Less"],
-        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
-    },
-    designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
-    motto: "Keep it simple and stupid ✨",
-};
-```
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Paul_von_Daniels)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.facemash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/713493/lorraineboza-wilelkwile)
 
-<div align="center">
+**System Programming | High-Performance Computing | Embedded Development**
 
-  ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shemmee&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-</div>
+## 🔧 Core Expertise
 
-## Featured Projects
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shemmee/TikTok-UI-Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=TikTok-UI-Clone" alt="TikTok UI Clone" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/s-shemmee/my-portfolio-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=my-portfolio-website" alt="My Portfolio Website" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/s-shemmee/ChatNow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=ChatNow" alt="ChatNow" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shemmee/Dictionary-React-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=Dictionary-React-App" alt="Dictionary React App" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shemmee/React-Weather-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemmee&theme=dracula&hide_border=true&show_icons=true&repo=React-Weather-App" alt="React Weather App" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/s-shemmee/MoviePitch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-shemmee&theme=dracula&hide_border=true&show_icons=true&repo=MoviePitch" alt="MoviePitch" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Languages & Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-4B8BBE?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-4B8BBE?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
+### Areas of Interest
+- Low-latency systems
+- Memory management & optimization
+- Multithreading & concurrency
+- Embedded systems development
 
-  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+---
 
-  ---
-  #### <img src="https://media.giphy.com/media/WygrrSksa7x4PHFXxM/giphy.gif" height="30"> <em><b>Always up for a chat and geeking out about all things tech!</b>💻<3</em>
+## 📚 Currently Learning
+- Advanced C++20 features
+- Linux kernel development
+- Performance optimization techniques
+- Embedded systems architecture
 
-  ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+---
 
-</div>
+## 📖 Technical Library
+
+### C Programming
+- "The C Programming Language" - Kernighan & Ritchie
+- "C Primer Plus" - Stephen Prata
+
+### C++ Programming
+- "C++ For Dummies" - Stephen R. Davis
+- "C++ Primer Plus" - Stephen Prata
+- "Object-Oriented Programming in C++" - Robert Lafore
+- "Algorithms in C++" - Robert Sedgewick
+- "Competitive Programmer's Handbook" - Antti Laaksonen
+
+---
+
+## 🎯 Career Focus
+
+Seeking opportunities to:
+- Develop high-performance systems
+- Optimize critical code paths
+- Contribute to meaningful open-source projects
+- Work with cutting-edge hardware technologies
+
+---
+
+> "If you want to know what God thinks about money, look at who he gave it to."
+
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
