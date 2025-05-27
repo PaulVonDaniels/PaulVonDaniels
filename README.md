@@ -20,6 +20,10 @@
 </div>
 
 
+### Now Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+
+
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Analytics:</i></h2>
 
@@ -50,7 +54,5 @@
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
-### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
