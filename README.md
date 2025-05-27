@@ -32,8 +32,6 @@
 
 
 
-
-
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i>🛠 Tech Stack:</i></h2>
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;  \
@@ -44,7 +42,7 @@
 
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i>🏆 GitHub Trophies:</i></h2>
-PaulVonDaniels
+
 ![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 > "If you want to know what God thinks about money, look at who he gave it to."
