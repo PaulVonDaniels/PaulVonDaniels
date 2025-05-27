@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Hi,I'm+Paul+Danilchenko;C%2FC%2B%2B+Engineer+%7C+System+Software+Developer;Passionate+about+low-level+code%2C+performance" width="100%" height="50px">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
