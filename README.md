@@ -44,8 +44,8 @@
 
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i>🏆 GitHub Trophies:</i></h2>
-
-![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+PaulVonDaniels
+![](https://github-profile-trophy.vercel.app/?username=PaulVonDaniels&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 > "If you want to know what God thinks about money, look at who he gave it to."
 
