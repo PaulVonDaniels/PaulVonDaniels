@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-@Paul_von_Daniels-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Paul_von_Daniels)
+[![Telegram](https://img.shields.io/badge/-@von_Daniels-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Paul_von_Daniels)
 [![Email](https://img.shields.io/badge/-www.facemash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.facemash@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=FE7A16)](https://ru.stackoverflow.com/users/713493/PaulVonDaniels-wilelkwile)
