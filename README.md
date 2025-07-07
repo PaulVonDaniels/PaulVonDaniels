@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-@@Loraineboza-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Loraineboza)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Loraineboza)
 [![Email](https://img.shields.io/badge/-www.facemash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.facemash@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
 
