@@ -42,10 +42,6 @@
 
 
 
-
-
-
-
 </h4>  
   
 
@@ -72,13 +68,13 @@
 
 > 📦 14.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,547 Contributions in the Year 2025
+> 🏆 >100 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 207 Public Repositories 
+> 📜 >20 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 
 
@@ -110,10 +106,11 @@
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/von_daniels) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/VonDaniels) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/lorraineboza/)
 
 
 
