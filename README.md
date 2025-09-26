@@ -1,117 +1,54 @@
-<div align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seigtm">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FFDE00&background=0F0F1A&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Loraineboza+Wilelkwile)](https://git.io/typing-svg)
-
-
-<div align="center">
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=PaulVonDaniels&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
-
-<p align="center">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulVonDaniels&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/WEBP/right.webp">
-</p>
-
-
-
-<br/>
-
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulVonDaniels&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulVonDaniels&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=PaulVonDaniels&theme=react-dark&hide_border=true&area=true)
-
-
-
-
-
-</h4>  
-  
-
-<br/>
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C323%20hrs%204%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 14.2 MB Used in GitHub's Storage 
- > 
-> 🏆 >100 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 >20 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-
-
-
-
-
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
-
+<br />
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/VonDaniels) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/lorraineboza/)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Hello%2C+I'm+Loraineboza+Wilelkwile!+%F0%9F%91%8B;A+C%2B%2B+software+engineer.;Welcome+to+my+%E2%9C%A8GitHub+profile%E2%9C%A8!" alt="Greetings">
+</div>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Random dev quote">
+</div>
 
+## 👥 Contact me
 
+<!--
+- 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
+- ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
+- 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
+- 📄 **Resume:** [*click me*](https://seigtm.github.io).
+-->
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+## 🔧 Technologies
 
+- 🚀 **Primary languages:** C++ and C.
+- 🔨 **Tools & technologies:** STL, Qt, CMake, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulVonDaniels&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
+</div>
+
+## 🌐 Languages
+
+- 🪆 **Russian:** Native.
+- 🫖 **English:** B2 (upper-intermediate), proficient in reading technical documentation and communicating with English-speaking colleagues.
+
+## 📁 Main GitHub Projects
+
+### MEOV 3D Model Viewer
+
+- ✨ A simple, lightweight, fast, and user-friendly 3D model viewer.
+- ⚙️ Written in C++ with GLSL shader code.
+- 🛠️ Build orchestration with CMake.
+
+### setm::math C++ Mathematical Library
+
+- ✨ A library of mathematical classes in C++.
+- 📚 Detailed README for configuration, building, and usage.
+
+### C++/Qt Warehouse Management System (WMS)
+
+- ✨ An automated system for warehouse management.
+- ⚙️ Simplifies inventory management, order creation, and report generation.
+- 🛡️ Implements secure registration and authorization with password hashing.
+- 📦 Utilizes an SQLite3 database for user and inventory data.
