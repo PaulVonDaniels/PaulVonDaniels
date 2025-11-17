@@ -1,54 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seigtm">
+<h1 align="center">Hi 👋, I'm Nick</h1>
+<h3 align="center">A Passionate Software Engineer, Maker & Content Creator from Sparta, Greece. 🚀</h3>
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=educ8s&label=Profile%20views&color=0e75b6&style=flat" alt="educ8s" /> </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Hello%2C+I'm+Loraineboza+Wilelkwile!+%F0%9F%91%8B;A+C%2B%2B+software+engineer.;Welcome+to+my+%E2%9C%A8GitHub+profile%E2%9C%A8!" alt="Greetings">
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=educ8s" alt="educ8s" /></a> </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Random dev quote">
-</div>
 
-## 👥 Contact me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!--
-- 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
-- ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
-- 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
-- 📄 **Resume:** [*click me*](https://seigtm.github.io).
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PaulVonDaniels&show_icons=true&locale=en&layout=compact" alt="PaulVonDaniels" /></p>
 
-## 🔧 Technologies
-
-- 🚀 **Primary languages:** C++ and C.
-- 🔨 **Tools & technologies:** STL, Qt, CMake, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulVonDaniels&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
-</div>
-
-## 🌐 Languages
-
-- 🪆 **Russian:** Native.
-- 🫖 **English:** B2 (upper-intermediate), proficient in reading technical documentation and communicating with English-speaking colleagues.
-
-## 📁 Main GitHub Projects
-
-### MEOV 3D Model Viewer
-
-- ✨ A simple, lightweight, fast, and user-friendly 3D model viewer.
-- ⚙️ Written in C++ with GLSL shader code.
-- 🛠️ Build orchestration with CMake.
-
-### setm::math C++ Mathematical Library
-
-- ✨ A library of mathematical classes in C++.
-- 📚 Detailed README for configuration, building, and usage.
-
-### C++/Qt Warehouse Management System (WMS)
-
-- ✨ An automated system for warehouse management.
-- ⚙️ Simplifies inventory management, order creation, and report generation.
-- 🛡️ Implements secure registration and authorization with password hashing.
-- 📦 Utilizes an SQLite3 database for user and inventory data.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PaulVonDaniels&show_icons=true&locale=en" alt="PaulVonDaniels" /></p>
