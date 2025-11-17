@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<h1 align="center">Hello, sir. This is Lorraineboza</h1>
 <h3 align="center">A Passionate Software Engineer, Maker & Content Creator from Sparta, Greece. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=educ8s&label=Profile%20views&color=0e75b6&style=flat" alt="educ8s" /> </p>
